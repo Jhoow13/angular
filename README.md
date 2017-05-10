@@ -1,4 +1,4 @@
-# MyApp
+# Angular Tour of Heroes
 
 Projeto gerado com angular cli.
 
