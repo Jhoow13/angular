@@ -2,7 +2,7 @@
 
 Projeto gerado com angular cli.
 
-##Tutorial
+## Tutorial
 Seguindo o tutorial oficial do [angular.io](https://angular.io/docs/ts/latest/tutorial/)
 
 ## Servidor de desenvolvimento
